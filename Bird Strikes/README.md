@@ -1,4 +1,4 @@
-Data Visualization of Bird Strikes between
+# Data Visualization of Bird Strikes between
 2000 – 2011
 
 A bird strike is strictly defined as a collision between a bird and an aircraft which is in flight or on a 
